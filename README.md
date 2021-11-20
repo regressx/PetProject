@@ -1,2 +1,2 @@
-# PetProjectServer
+# PetProject
 Серверная часть для некоторого проекта
