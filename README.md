@@ -1,2 +1,2 @@
 # PetProject
-Серверная часть для некоторого проекта
+This is a pet project about objects and their relations
