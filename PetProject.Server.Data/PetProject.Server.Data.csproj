@@ -2,13 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+	  <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Common\PetProject.CommonLogic\PetProject.CommonLogic.csproj" />
-    <ProjectReference Include="..\PetProject.Server.Data\PetProject.Server.Data.csproj" />
   </ItemGroup>
 
 </Project>

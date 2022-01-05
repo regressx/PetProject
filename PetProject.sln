@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{3AE738
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject.CommonLogic", "Common\PetProject.CommonLogic\PetProject.CommonLogic.csproj", "{4FB2F334-1CF0-43D6-8F18-C55E38BC7333}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetProject.Server.Data", "PetProject.Server.Data\PetProject.Server.Data.csproj", "{E0D10831-76FC-40A3-A5DC-424E5C0BECE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4FB2F334-1CF0-43D6-8F18-C55E38BC7333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FB2F334-1CF0-43D6-8F18-C55E38BC7333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FB2F334-1CF0-43D6-8F18-C55E38BC7333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0D10831-76FC-40A3-A5DC-424E5C0BECE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D10831-76FC-40A3-A5DC-424E5C0BECE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D10831-76FC-40A3-A5DC-424E5C0BECE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D10831-76FC-40A3-A5DC-424E5C0BECE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

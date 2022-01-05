@@ -7,4 +7,13 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="ContextMenu\" />
+    <Folder Include="Base\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\PetProject.CommonLogic\PetProject.CommonLogic.csproj" />
+  </ItemGroup>
+
 </Project>
